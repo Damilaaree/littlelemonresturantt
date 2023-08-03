@@ -10,29 +10,29 @@ const customers = [
     fullName: 'Maria Sanchez',
     image: customer1Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `"Thank you for dinner last night. It was amazing!! I have to say it’s the best meal I have had in quite some time.
+     You will definitely be seeing more of me eating at your establishment".`,
   },
   {
     fullName: 'Antony Clifton',
     image: customer2Image,
     rating: [1, 1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `WOW!!! What an outstanding dinner you prepared at Little Lemon on Friday evening!!! 
+    It was an honor for me to be invited and experience firsthand your incredible culinary gift!.`,
   },
   {
     fullName: 'Tamika Jackson',
     image: customer3Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Thanks again this year for having our wedding anniversary at your fine restaurant last Monday evening. 
+    The food, service, ambience were all superb!!! On behalf of us all, fight on!.`,
   },
   {
     fullName: 'Brandon Ming',
     image: customer4Image,
     rating: [1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+      says: `"Everyone had a wonderful time at The French Gourmet last night. As expected,
+      the food was delicious and our servers,even thought a bit slow, were so friendly and helpful",.`,
   },
 ];
 
